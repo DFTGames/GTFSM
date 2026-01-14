@@ -1,8 +1,10 @@
 # GTFSM - Generically Typed Finite State Machine for Unity
 
-## Version 7.0 - Production Ready
+## Version 7.0.1 - Production Ready
 
 A high-performance, type-safe finite state machine system for Unity that eliminates `GetComponent` calls, provides per-instance state management, and includes advanced features like transition guards, state priorities, and event notifications.
+
+[![DOI](https://zenodo.org/badge/1134161318.svg)](https://doi.org/10.5281/zenodo.18243667)
 
 ---
 
