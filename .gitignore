@@ -1,0 +1,5 @@
+*.csproj
+*.sln
+FSMUnityPrj/Library/
+FSMUnityPrj/Temp/
+/FSMUnityPrj/.vs
