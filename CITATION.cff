@@ -5,6 +5,6 @@ authors:
   - family-names: "De Francesco"
     given-names: "Giuseppe"
     alias: "Pino"
-	orcid: "https://orcid.org/0000-0002-4362-7140"
+    orcid: "https://orcid.org/0000-0002-4362-7140"
 license: "Apache-2.0"
 url: "https://github.com/DFTGames/GTFSM"
