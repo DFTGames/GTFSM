@@ -1,4 +1,4 @@
-# GTFSM - Generically Typed Finite State Machine for Unity
+# Generically Typed Finite State Machine (GTFSM) for Unity
 
 ## Version 7.0.1 - Production Ready
 
